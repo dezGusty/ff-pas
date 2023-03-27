@@ -1,6 +1,6 @@
 # ff-pas
 
-Freedom Fighters - A pace shooter written in C for DOS.
+Freedom Fighters - A space shooter written in C for DOS.
 
 ## What is this?
 
